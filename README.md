@@ -38,4 +38,4 @@ cryptography
 requests (if you choose to fetch data from other URLs or APIs)
 To install them, you can use:
 
-## pip install cryptography requests
+pip install cryptography requests
