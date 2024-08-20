@@ -18,7 +18,7 @@ The script should use the cryptography library for handling certificates and key
 ---
 
 ## Command:
-python3 IsYourCertInTheBlack.py
+python3 TLS-Certificate-Expiry-Checker.py
 
 You will be prompted to provide a hostname (Domain Name)
 Hostname used for below output: feistyduck.com
