@@ -40,5 +40,4 @@ To install them, you can use:
 
 pip install cryptography requests
 
-# ***UPDATE***
-An easy windows desktop application is now available - see the .exe file listed.
+
